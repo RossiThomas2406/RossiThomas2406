@@ -1,7 +1,7 @@
 # ¡Hola! Soy Thomas Rossi 👋
 
 ### 👨‍💻 Sobre mí
-Soy un **Desarrollador Full Stack / Tecnico en Informatica** apasionado por crear soluciones eficientes y aprender nuevas tecnologías. Me enfoco principalmente en el desarrollo de aplicaciones web.
+Soy un **Desarrollador Full Stack / Técnico en Informática** apasionado por crear soluciones eficientes y aprender nuevas tecnologías. Me enfoco principalmente en el desarrollo de aplicaciones web.
 
 - 🔭 Actualmente estoy trabajando en: **yamanil-web**
 - 🌱 Estoy estudiando la carrera de: **Licenciatura en Sistemas**
@@ -30,5 +30,5 @@ Aquí están algunas de las herramientas con las que trabajo habitualmente:
 ---
 
 ### 📫 Cómo contactarme
-- 💼 **LinkedIn:** [linkedin.com/in/thomas-rossi-0255553a4/]([https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/thomas-rossi-0255553a4/))
-- 📧 **Email:** [rossithomashernan@gmail.com]
+- 💼 **LinkedIn:** [thomas-rossi-0255553a4](https://www.linkedin.com/in/thomas-rossi-0255553a4/)
+- 📧 **Email:** rossithomashernan@gmail.com
