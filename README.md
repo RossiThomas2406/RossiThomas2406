@@ -1,10 +1,10 @@
-# ¡Hola! Soy [Thomas Rossi] 👋
+# ¡Hola! Soy Thomas Rossi 👋
 
 ### 👨‍💻 Sobre mí
-Soy un **[Desarrollador Full Stack / Tecnico en Informatica]** apasionado por crear soluciones eficientes y aprender nuevas tecnologías. Me enfoco principalmente en el desarrollo de [aplicaciones web].
+Soy un **Desarrollador Full Stack / Tecnico en Informatica** apasionado por crear soluciones eficientes y aprender nuevas tecnologías. Me enfoco principalmente en el desarrollo de aplicaciones web.
 
-- 🔭 Actualmente estoy trabajando en: **[yamanil-web]**
-- 🌱 Estoy estudiando la carrera de: **[Licenciatura en Sistemas]**
+- 🔭 Actualmente estoy trabajando en: **yamanil-web**
+- 🌱 Estoy estudiando la carrera de: **Licenciatura en Sistemas**
 
 ---
 
@@ -25,7 +25,7 @@ Aquí están algunas de las herramientas con las que trabajo habitualmente:
 ---
 
 ### 📈 Mis Estadísticas de GitHub
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=[TU-USUARIO]&show_icons=true&theme=radical)
+![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=RossiThomas2406&show_icons=true&theme=radical)
 
 ---
 
