@@ -25,7 +25,7 @@ Aquí están algunas de las herramientas con las que trabajo habitualmente:
 ---
 
 ### 📈 Mis Estadísticas de GitHub
-![Mis estadísticas](https://github-readme-stats.vercel.app/api?username=RossiThomas2406&show_icons=true&theme=radical)
+[![Mis estadísticas](https://github-readme-stats.vercel.app/api?username=RossiThomas2406&show_icons=true&theme=radical&count_private=true)](https://github.com/RossiThomas2406)
 
 ---
 
