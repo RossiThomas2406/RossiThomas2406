@@ -1,7 +1,7 @@
 # ¡Hola! Soy [Thomas Rossi] 👋
 
 ### 👨‍💻 Sobre mí
-Soy un **[Desarrollador Full Stack / Tecnico en Informatica** apasionado por crear soluciones eficientes y aprender nuevas tecnologías. Me enfoco principalmente en el desarrollo de [aplicaciones web].
+Soy un **[Desarrollador Full Stack / Tecnico en Informatica]** apasionado por crear soluciones eficientes y aprender nuevas tecnologías. Me enfoco principalmente en el desarrollo de [aplicaciones web].
 
 - 🔭 Actualmente estoy trabajando en: **[yamanil-web]**
 - 🌱 Estoy estudiando la carrera de: **[Licenciatura en Sistemas]**
