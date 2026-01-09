@@ -22,10 +22,6 @@ Aquí están algunas de las herramientas con las que trabajo habitualmente:
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
 
----
-
-### 📈 Mis Estadísticas de GitHub
-![Estadísticas de Thomas](https://github-readme-stats.vercel.app/api?username=RossiThomas2406&show_icons=true&theme=dark&hide_border=true)
 
 ---
 
