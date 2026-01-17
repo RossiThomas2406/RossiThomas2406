@@ -2,7 +2,7 @@
 ### Técnico Universitario en Informática & Full Stack Developer
 
 🎓 **Sobre mí:**
-- Graduado de la **UNGS** (2025) y estudiante de Licenciatura en Sistemas (3er año).
+- Graduado de la **UNGS** (2025) y estudiante de Licenciatura en Sistemas (4to año).
 - Especialista en desarrollo web con **React, Node.js, Express.js y PostgreSQL**.
 - Busco oportunidades **Part-time / Pasantías** para aplicar mis conocimientos.
 
