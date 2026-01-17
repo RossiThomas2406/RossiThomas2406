@@ -1,4 +1,4 @@
-# Hola, soy Thomas Rossi 👋
+# Hola, soy Thomas Hernán Rossi 👋
 ### Técnico Universitario en Informática & Full Stack Developer
 
 🎓 **Sobre mí:**
