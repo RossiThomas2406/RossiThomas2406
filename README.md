@@ -3,7 +3,7 @@
 
 🎓 **Sobre mí:**
 - Graduado de la **UNGS** (2025) y estudiante de Licenciatura en Sistemas (3er año).
-- Especialista en desarrollo web con **React, Node.js y PostgreSQL**.
+- Especialista en desarrollo web con **React, Node.js, Express.js y PostgreSQL**.
 - Busco oportunidades **Part-time / Pasantías** para aplicar mis conocimientos.
 
 ### 🛠️ Tech Stack & Herramientas
