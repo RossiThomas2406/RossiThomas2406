@@ -6,9 +6,13 @@
 - Especialista en desarrollo web con **React, Node.js y PostgreSQL**.
 - Busco oportunidades **Part-time / Pasantías** para aplicar mis conocimientos.
 
-🛠️ **Tech Stack Principal:**
-- **Frontend:** React.js, HTML5, CSS3, Bootstrap.
-- **Backend:** Node.js, Express.js.
-- **Base de Datos:** PostgreSQL, SQL Server.
-- **Herramientas:** Git, Postman, Render, Vercel.
-- *Otros conocimientos:* Python, C# .NET, Java.
+### 🛠️ Tech Stack & Herramientas
+
+**💻 Stack Principal (PERN Focus)**
+* **Frontend:** React.js, JavaScript (ES6+), Bootstrap, HTML/CSS.
+* **Backend:** Node.js, Express.js (APIs RESTful).
+* **Database:** PostgreSQL.
+* **Herramientas:** Git, Github, Postman, Render, Vercel.
+
+**🎓 Stack Académico / Otros**
+* Python, C# .NET, SQL Server.
