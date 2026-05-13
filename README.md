@@ -1,18 +1,17 @@
-# Hola, soy Thomas Hernán Rossi 👋
-### Técnico Universitario en Informática & Full Stack Developer
+# Hi, I'm Thomas Rossi, a Software Developer and Computer Science Technician from Argentina 👋
 
-🎓 **Sobre mí:**
-- Graduado de la **UNGS** (2025) y estudiante de Licenciatura en Sistemas (4to año).
-- Especialista en desarrollo web con **React, Node.js, Express.js y PostgreSQL**.
-- Busco oportunidades **Part-time / Pasantías** para aplicar mis conocimientos.
+**About Me:**
+Software Developer and Computer Science Technician (UNGS), currently pursuing a Bachelor’s Degree in Systems. Experienced in Fullstack web development and streamlining operational processes through digitalization. Highly adaptable with a proven ability to quickly learn and implement new technologies based on project requirements. Currently deepening knowledge in process automation and cybersecurity. English level: B2.
 
-### 🛠️ Tech Stack & Herramientas
+### Technical Skills
 
-**💻 Stack Principal (PERN Focus)**
-* **Frontend:** React.js, JavaScript (ES6+), Bootstrap, HTML/CSS.
-* **Backend:** Node.js, Express.js (APIs RESTful).
-* **Database:** PostgreSQL.
-* **Herramientas:** Git, Github, Postman, Render, Vercel.
+* **Development:** HTML5, CSS3, JavaScript, React.js, Node.js / Express.js, Java, Spring Boot.
+* **Databases:** PostgreSQL.
+* **Methodologies & Tools:** SCRUM, Kanban, Jira, Git/GitHub.
+* **Languages:** Spanish (Native), English (B2 Level - Upper Intermediate).
 
-**🎓 Stack Académico / Otros**
-* Python, C# .NET, SQL Server.
+### Interpersonal Skills
+
+* **Fast Learner:** High flexibility to incorporate new languages and tools according to business needs.
+* Analytical thinking and complex problem-solving.
+* Collaborative teamwork and effective communication.
