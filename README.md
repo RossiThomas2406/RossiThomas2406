@@ -1,4 +1,4 @@
-# Hi, I'm Thomas Rossi 👋
+# Hi, I'm Thomas Hernán Rossi 👋
 
 ### Software Developer specializing in the Java ecosystem
 
