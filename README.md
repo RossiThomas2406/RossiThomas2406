@@ -1,6 +1,6 @@
 # Hi, I'm Thomas Hernán Rossi 👋
 
-### Software Developer specializing in the Java ecosystem
+### Java Backend Developer
 
 Graduate Computer Science Technician and current 4th-year Bachelor's Degree candidate in Information Systems at UNGS. Registered Professional at CPCIBA. Passionate about backend architecture, clean code, and database optimization.
 
@@ -16,7 +16,7 @@ Graduate Computer Science Technician and current 4th-year Bachelor's Degree cand
 
 ---
 
-### Desarrollador de Software especializado en el ecosistema Java
+### Desarrollador Backend Java
 
 Técnico en Informática graduado y actual estudiante de 4° año de la Licenciatura en Sistemas en la UNGS. Profesional Matriculado en el CPCIBA. Apasionado por la arquitectura backend, el código limpio y la optimización de bases de datos.
 
