@@ -1,7 +1,5 @@
 # Hi, I'm Thomas Rossi 👋
 
-[English Version](#english-version) | [Versión en Español](#versión-en-español)
-
 ### 💻 Software Developer specializing in the Java ecosystem
 
 Graduate Computer Science Technician and current 4th-year Bachelor's Degree candidate in Information Systems at UNGS. Registered Professional at CPCIBA. Passionate about backend architecture, clean code, and database optimization.
@@ -32,7 +30,7 @@ Técnico en Informática graduado y actual estudiante de 4° año de la Licencia
 * **Español:** Nativo
 * **Inglés:** Nivel B2 (Usuario Independiente) - Capaz de colaborar en equipos multidisciplinarios y multiculturales
 
----
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 🔗 Connect with me / Contacto
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thomas-hernan-rossi/)
