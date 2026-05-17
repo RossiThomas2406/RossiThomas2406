@@ -12,7 +12,7 @@ Graduate Computer Science Technician and current 4th-year Bachelor's Degree cand
 
 ### Language Proficiency
 * **Spanish:** Native
-* **English:** B2 Level (Independent User) - Capable of collaborating in cross-functional and multicultural teams
+* **English:** B2 Level
 
 ---
 
@@ -28,7 +28,7 @@ Técnico en Informática graduado y actual estudiante de 4° año de la Licencia
 
 ### Idiomas
 * **Español:** Nativo
-* **Inglés:** Nivel B2 (Usuario Independiente) - Capaz de colaborar en equipos multidisciplinarios y multiculturales
+* **Inglés:** Nivel B2
 
 ---
 
