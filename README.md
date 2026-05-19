@@ -8,9 +8,9 @@
 
 ## Technical Toolkit / Herramientas Técnicas
 
-* **Backend:** Java, Spring Boot, Express.js, Node.js, Python
+* **Backend:** Java, Spring Boot, Express.js
 * **Databases / Bases de Datos:** PostgreSQL
-* **Frontend:** React.js, Angular.js, JavaScript, HTML5, CSS3
+* **Frontend:** React.js, JavaScript, HTML5, CSS3
 * **Tools & Methodologies / Herramientas:** Git, GitHub, SCRUM, JIRA
 
 ---
