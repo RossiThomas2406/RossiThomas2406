@@ -1,5 +1,5 @@
 # Hi there, I'm Thomas Hernán Rossi 👋
-### Java Backend Specialist
+### Java Backend Developer
 
 **Location:** Muñiz, Buenos Aires, Argentina | 
 **Languages:** Spanish (Native), English (B2 Fluent)
