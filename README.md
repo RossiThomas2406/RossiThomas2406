@@ -65,9 +65,20 @@ Desarrollador de Software especializado en el **ecosistema Java**. Mi stack prin
 
 ### Connect with me / Contacto
 
-[![Email](https://img.shields.io/badge/Email-rossithomasdev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rossithomasdev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thomas_Rossi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-hernan-rossi/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-My_Work-000000?style=for-the-badge&logo=browser&logoColor=white)](https://rossithomas2406.github.io/)
+<a href="mailto:rossithomasdev@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-rossithomasdev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="35">
+</a>
+&nbsp;&nbsp;
+<a href="https://linkedin.com/in/thomas-hernan-rossi" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Thomas_Rossi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35">
+</a>
+&nbsp;&nbsp;
+<a href="https://rossithomas2406.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-My_Work-000000?style=for-the-badge&logo=browser&logoColor=white" alt="Portfolio" height="35">
+</a>
+
+---
+
 
 
 
