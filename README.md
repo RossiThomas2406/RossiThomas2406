@@ -15,7 +15,7 @@
 
 ---
 
-## Choose your language / Elige tu idioma
+## Professional Summary / Perfil Profesional
 
 <details>
 <summary>🇺🇸 <b>English Version (Click to expand)</b></summary>
@@ -63,10 +63,10 @@ Desarrollador de Software especializado en el **ecosistema Java**. Mi stack prin
 
 ---
 
-### 📬 Connect with me / Contacto
+### Connect with me / Contacto
 
 * **Email:** rossithomasdev@gmail.com
-* **LinkedIn:** [Your LinkedIn Profile Link]
-* **Portfolio:** [Your Portfolio Link]
+* **LinkedIn:** https://www.linkedin.com/in/thomas-hernan-rossi/
+* **Portfolio:** https://rossithomas2406.github.io/
 
-*⚡ "Translating real-world problems into efficient, scalable, and clean code."*
+
