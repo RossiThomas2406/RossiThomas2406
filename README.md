@@ -65,7 +65,7 @@ Desarrollador de Software especializado en el **ecosistema Java**. Mi stack prin
 
 ### Connect with me / Contacto
 
-[![Email](https://img.shields.io/badge/Email%20%20%20%20-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=rossithomasdev@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thomas-hernan-rossi) [![Portfolio](https://img.shields.io/badge/My%20Work%20-000000?style=for-the-badge&logo=browser&logoColor=white)](https://rossithomas2406.github.io/)
+[![Email](https://img.shields.io/badge/Email%20%20%20%20-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=rossithomasdev@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thomas-hernan-rossi) [![Portfolio](https://img.shields.io/badge/My%20Portfolio%20-000000?style=for-the-badge&logo=browser&logoColor=white)](https://rossithomas2406.github.io/)
 
 
 
